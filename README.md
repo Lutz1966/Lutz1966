@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @Lutz1966
+- 👋 Hello, I'm @Lutz1966  from Germany near Cologne
 - 
 - 👀 I'm interested in software and hardware development, I turned my hobby into a profession and studied electrical engineering, graduating 30 years ago. Since then, I have been fascinated by Arduino and Raspberry Pi as a hobby and have already built one or two boards (self-developed).
 In the field of home automation, lighting control, pool control and music electronics such as guitar amps etc.
